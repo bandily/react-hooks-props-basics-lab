@@ -1,5 +1,10 @@
 import React from "react";
 
+
+// function ncc() {
+//   return (<Home name="Liza" city="New York" color="firebrick" />)
+// }
+
 function Home(props) {
   return (
     <div id="home">
